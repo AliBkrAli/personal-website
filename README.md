@@ -33,6 +33,13 @@ This project was built using:
 - **Portfolio Section**: Displays details about my projects.
 - **Contact Form**: A simple form for visitors to contact me.
 
+## Installation
+
+To run this project locally:
+
+1. Clone the repository:
+   ```bash
+   git clone[ https://github.com/your-username/ali-bakr-website.git](https://github.com/AliBkrAli/personal-website)
 
 
 
