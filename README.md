@@ -39,7 +39,7 @@ To run this project locally:
 
 1. Clone the repository:
    ```bash
-   git clone[ https://github.com/your-username/ali-bakr-website.git](https://github.com/AliBkrAli/personal-website)
+    https://github.com/AliBkrAli/personal-website
 
 
 
